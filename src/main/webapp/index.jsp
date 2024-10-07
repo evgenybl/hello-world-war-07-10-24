@@ -1,9 +1,11 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html>
 <head>
-    <title>Welcome to Evgeny's World!</title>
+    <meta charset="UTF-8">
+    <title>Welcome to Evgenyb's World!</title>
 </head>
 <body style="text-align:center; background-color: lightblue; font-family: Arial, sans-serif;">
-    <h1>🦄 Welcome to Evgeny's World of DevOps Magic! 🌟</h1>
+    <h1>🦄 Welcome to Evgenyb's World of DevOps Magic! 🌟</h1>
     <h2>👾 The Ultimate Guide to Jenkins Pipeline Fun 👾</h2>
     
     <p>
@@ -20,7 +22,7 @@
     <p>✨ "Automate all the things!" – Some very wise DevOps wizard 🧙</p>
 
     <footer style="margin-top: 30px;">
-        <p>🐱‍💻 Powered by Evgeny's DevOps Sorcery 🐱‍🚀</p>
+        <p>🐱‍💻 Powered by Evgenyb's DevOps Sorcery 🐱‍🚀</p>
     </footer>
 </body>
 </html>
