@@ -22,7 +22,7 @@
     <p>✨ "Automate all the things!" – Some very wise DevOps wizard ✨</p>
 
     <footer style="margin-top: 30px;">
-        <p>✨✨ Powered by Evgeny's DevOps Sorcery ✨✨</p>
+    
     </footer>
 </body>
 </html>
